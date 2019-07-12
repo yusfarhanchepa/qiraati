@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "212558344908",
-    "firebase_url": "https://qiraati-app.firebaseio.com",
-    "project_id": "qiraati-app",
-    "storage_bucket": "qiraati-app.appspot.com"
+    "project_number": "69912645575",
+    "firebase_url": "https://qiraati-92d7c.firebaseio.com",
+    "project_id": "qiraati-92d7c",
+    "storage_bucket": "qiraati-92d7c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:212558344908:android:9ac21a9b677579ae",
+        "mobilesdk_app_id": "1:69912645575:android:9ac21a9b677579ae",
         "android_client_info": {
           "package_name": "com.qiraati"
         }
       },
       "oauth_client": [
         {
-          "client_id": "212558344908-5nqg8bu3m46u3q3f8ge7858l5e69vqlc.apps.googleusercontent.com",
+          "client_id": "69912645575-npoch391jfdlnkgd12m37etohc32imcq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAj4K3kV1RQjmiy4SFqWUr0nked6Cb_-x8"
+          "current_key": "AIzaSyCRCCCZ0z4MQw0TLUvBYeLOBNKo5pdPZQo"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69912645575-npoch391jfdlnkgd12m37etohc32imcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
